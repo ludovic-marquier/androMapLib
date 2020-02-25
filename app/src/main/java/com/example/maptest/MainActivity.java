@@ -3,13 +3,8 @@ package com.example.maptest;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.view.Window;
-import android.webkit.ConsoleMessage;
-import android.webkit.WebChromeClient;
-import android.webkit.WebSettings;
-import android.webkit.WebView;
 
-import com.example.maptest.CustomView.Map;
+import com.example.libmap.CustomView.Map;
 
 public class MainActivity extends AppCompatActivity {
 
