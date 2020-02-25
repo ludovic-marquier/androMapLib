@@ -1,0 +1,2 @@
+include ':app', ':maptestlib', ':libmap'
+rootProject.name='MapTest'
